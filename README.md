@@ -13,4 +13,3 @@ This project aimed to explore different architectures which perform automated im
 5. The notebooks show the output and losses towards the end of the notebooks. The get_prediction() cell can be run a few times to obtain a series of different sample outputs and predictions.  
   
 [Slides explaining the project](https://docs.google.com/presentation/d/1oyroor4uiwlbYHFFg0oXp_gjM9Grxvnv6VJa4GG6_dg/edit?usp=sharing)
-# Image-Captioning
